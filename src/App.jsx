@@ -1,8 +1,8 @@
 // src/App.js
 import React, { useState, useRef, useEffect } from "react";
-import CanvasJuego from "../components/CanvasJuego.jsx";
-import ControlesJuego from "../components/ControlesJuego.jsx";
-import Marcador from "../components/Marcador.jsx";
+import CanvasJuego from "./components/CanvasJuego.jsx";
+import ControlesJuego from "./components/ControlesJuego.jsx";
+import Marcador from "./components/Marcador.jsx";
 import "./App.css";
 
 function App() {
